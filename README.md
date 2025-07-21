@@ -2,6 +2,7 @@
 This project demonstrates how to use machine learning techniques to optimize retail prices in order to maximize revenue and profit. We analyze historical retail data and competitor pricing, build visualizations, and train a regression model to predict the ideal total price based on key product and competitive factors.
 
 **Project Overview**
+
 Retail price optimization involves determining the best price point for products to maximize profitability while staying competitive in the market. In this project, we:
  - Analyze product pricing, quantity, and competitor data
  - Visualize trends and patterns using Plotly
@@ -10,6 +11,7 @@ Retail price optimization involves determining the best price point for products
  - Create an interpretable dashboard of results and metrics
 
 **Dataset**
+
 The dataset contains 676 retail records and includes features such as:
  - Product ID and category
  - Quantity sold, unit price, total price
@@ -19,6 +21,7 @@ The dataset contains 676 retail records and includes features such as:
  - Review scores and previous pricing (lag_price
    
 **Exploratory Data Analysis**
+
 Performed the following EDA tasks:
  - Distribution of total and unit prices (Histogram, Boxplot)
  - Relationship between quantity and price (Scatter with trendline)
