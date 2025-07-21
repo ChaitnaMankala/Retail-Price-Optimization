@@ -35,6 +35,7 @@ Performed the following EDA tasks:
        to capture price deviation from the primary competitor.
 
 **Model Building**
+
 Used Decision Tree Regressor to predict the total price based on selected features:
 Features used:
 ['qty', 'unit_price', 'comp_1', 'product_score', 'comp_price_diff']
