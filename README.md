@@ -39,7 +39,6 @@ Performed the following EDA tasks:
 Used Decision Tree Regressor to predict the total price based on selected features:
 
 Features used:
-
 ['qty', 'unit_price', 'comp_1', 'product_score', 'comp_price_diff']
  - Split the data (80/20) for training and testing
  - Visualized actual vs. predicted prices
